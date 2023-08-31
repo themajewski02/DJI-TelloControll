@@ -13,6 +13,7 @@ Esse é um projeto criado para operar e controlar o Drone DJI Tello, e isso é q
 
 <i>Requesitos:</i>
 
- <img align="center" alt="Emerson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">Ter instalado o NodeJs Versão LTS Mais Recente: 18.17.1 (includes npm 9.6.7).
+ <img align="center" alt="Emerson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">Ter instalado o NodeJs Versão LTS Mais Recente: 18.17.1 (includes npm 9.6.7).<b>  //</b>
+Instalar o package.json.
 
 ##
